@@ -15,7 +15,7 @@ class Student
     end
   end
 
-  end
+
 
   def add_student_attributes(attributes_hash)
 
