@@ -13,6 +13,7 @@ class Student
     students_array.map do |student|
       Student.new = student
     end
+    end
 
   end
 
