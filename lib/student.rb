@@ -12,6 +12,7 @@ class Student
   def self.create_from_collection(students_array)
     students_array.map do |student|
       Student.new(student)
+    end
   end
 
   end
